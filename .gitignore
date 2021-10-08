@@ -11,3 +11,9 @@ yarn-error.log
 
 # Compiled
 **/*.css
+
+# Local Netlify folder
+.netlify
+
+# VSC debug
+.vscode
